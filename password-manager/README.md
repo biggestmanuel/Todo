@@ -123,3 +123,4 @@ app/api/entries/route.js      list (decrypt) / create (encrypt)
 app/api/entries/[id]/route.js update / delete
 app/page.js                   setup screen -> login screen -> vault UI
 ```
+# Password-Manager

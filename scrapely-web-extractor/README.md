@@ -51,3 +51,4 @@ The tool does not bypass CAPTCHAs, authentication, paywalls, bot protection, or 
 Turn webpages into usable data for developers, researchers, SEO teams, journalists, students and analysts.
 
 Do not market it as a universal scraper. It is designed for responsible extraction from publicly accessible HTML.
+# Web-extractor

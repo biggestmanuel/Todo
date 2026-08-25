@@ -84,3 +84,4 @@ app/
   layout.js, globals.css
 lib/supabase.js              shared Supabase client
 ```
+# Todo

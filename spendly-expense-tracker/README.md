@@ -24,3 +24,4 @@ Expenses are stored only in the user's browser via localStorage. No account or s
 
 ## Scope
 This is a client-side public utility, not a bank-grade financial service. It does not provide cloud backup, multi-device sync, accounts, or server-side encryption.
+# Expense-tracker
